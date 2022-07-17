@@ -1,11 +1,11 @@
 {
   "name": "file2cos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A tool to help you push file to OSS/COS",
   "main": "index.js",
   "bin": {
-    "osscli":"index.js"
+    "file2cos": "index.js"
   },
   "scripts": {},
   "keywords": [],
